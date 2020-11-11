@@ -1,5 +1,5 @@
 class Author
-  
+
   @@all_posts = []
 
   def initialize(name)
