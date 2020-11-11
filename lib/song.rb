@@ -9,7 +9,7 @@ class Song
     @artist = artist
     @@all << self
   end
-end
+
 
 def artist_name
   if self.artist
