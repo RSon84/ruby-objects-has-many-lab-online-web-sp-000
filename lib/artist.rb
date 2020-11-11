@@ -4,7 +4,7 @@ class Artist
 
 @@song_count = 0
 
-  def initialize
+  def initialize(name)
     @name = name
     @songs = []
   end
