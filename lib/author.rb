@@ -28,5 +28,3 @@ class Author
     Pont.all.count
   end
 end
-
-
