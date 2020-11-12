@@ -25,8 +25,8 @@ class Author
   end
 
   def self.post_count
-    Pong.all.count
+    Pont.all.count
   end
 end
 
-end
+
